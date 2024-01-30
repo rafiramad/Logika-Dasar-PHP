@@ -1,0 +1,32 @@
+Materi perulangan (Lopping)
+diperlukan ketika suatu baris kode yang sama akan digunakan secara berulang sampai batas yang ditentukan.
+
+jenis-jenis looping:
+   -while : mengecek kondisi -> melakukan sesuatu -> increments/decrement
+     $angkaAwal = 1;
+      while (expression) {
+             statement
+               increments/decrements
+  }
+
+- do while : melakukan sesuatu -> increments/decrements -> mengecek
+ kalau < lebih kurang dari  pakai increments ++
+ kalau > lebih besar dari pakai decrements  --
+   $angkaAwal = 1;
+   do{
+      statemnt
+             increments/decrements 
+                      while (expression) {
+                                    statement 
+
+- for : mengecek kondisi -> melakukan sesuatu -> increments/decrements
+          for ($angkaAwal = 1; expression; increments/decrements {
+           statement
+           }
+-forech : khusus untuk mengakses item array (pada tiap tiap bahasa pemograman
+          berbeda nama fungsinya)
+          $arr = ["nama" => 'putri',"rombel" => 'PPLG'];
+          foreach($arr as $item {
+              statement
+            }
+

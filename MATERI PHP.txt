@@ -1,0 +1,17 @@
+Tipe-tipe bahasa pemrograman:
+   -> Server side: berhubungan dengan data, memerlukan tools untuk mengaksesnya, berjalan di belakang layar
+   -> Client side: berhubungan dengan layouts/tampilan, tidak memerlukan tools untuk mengaksesnya, berhubungan langsung. Dibagi lagi berdasarkan platformnya: browser, Android, desktop, iOS
+
+Contoh dari masing-masing tipe bahasa pemrograman:
+   - Server side: PHP, Python, Java, Node.js, Ruby
+   - Client side:
+      - Browser (JS, HTML, CSS)
+      - Android (JS, HTML, CSS)
+      - Desktop (VB.NET, C++)
+      - iOS (Swift)
+
+apakah css termasuk bahasa pemrograman?
+menurut saya css termasuk kedalam bahasa desain
+
+-logic dasar pemrograman : percabangan (if-else), perulangan (looping), tipe data, function (bawaan (internal, default)/dibuat(external))
+-logic logic tersebut dapat dijalankan pada bahasa pemrograman yang bersifat sebagai server side
